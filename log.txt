@@ -1,0 +1,4 @@
+Mitmproxy: 4.0.4
+Python:    3.7.0
+OpenSSL:   OpenSSL 1.0.2o  27 Mar 2018
+Platform:  Darwin-17.6.0-x86_64-i386-64bit
